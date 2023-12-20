@@ -7,13 +7,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jameBruno&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&show_icons=true)
 
-https://github-readme-stats.vercel.app/api?username=jameBruno&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&
-
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-
-
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
